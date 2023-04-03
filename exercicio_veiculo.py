@@ -1,7 +1,6 @@
 peso_veiculo = float(input('Qual peso do veículo? '))
 quant_rodas = int(input('Quantas rodas o veiculo possui? '))
 quant_pessoas = int(input('Até quantas pessoas o veiculo pode carregar? '))
-categoria = str
 
 if quant_rodas <= 3:
   print('A categoria do veículo é: A')
