@@ -1,0 +1,5 @@
+for i in range(20):
+    if i == 12:
+        continue
+    else:
+        print("andar", i+1)
